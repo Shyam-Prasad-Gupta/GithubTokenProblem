@@ -1,0 +1,13 @@
+/target/
+bin/
+.classpath
+.settings/
+.idea/
+**/*.iml
+
+cloudcourt-api-1.0.jar
+/maven-repository/
+/.metadata/
+/RemoteSystemsTempFiles/*
+*.factorypath
+.project
